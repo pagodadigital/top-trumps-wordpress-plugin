@@ -5,8 +5,7 @@ Description: Play Top Trumps With Your Imported Data
 Version: 1.0.0
 Author: Swellfoundry
 Author URI: http://swellfoundry.com
-Text Domain: top-trumps
-Domain Path: /languages
+Text Domain: top_trumps_game_text
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
@@ -77,11 +76,14 @@ class Top_Trumps_Game  {
 
     public function includes() {
         $files = array(
+            'class-top-trump-post-types.php'
         );
 
         foreach ( $files as $file ) {
             require_once( $this->plugin_dir . 'includes/' . $file );
         }
+
+        $this->post_types = new Top_Trumps_Game_Post_Types();
     }
 
     /**
