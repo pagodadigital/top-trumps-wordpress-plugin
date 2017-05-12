@@ -1,0 +1,170 @@
+{
+   "Name" : "Singer Songwriters",  
+   "Data" : [
+    {
+      "Artist": "Noel Gallagher",
+      "Genre": "Brit rock, indie rock, rock",
+      "Number of Albums": 9,
+      "Biggest hit to date": "Wonderwall",
+      "Song-writing prowess": 9,
+      "Lyricism power": 7,
+      "Modern day hero rating": 9,
+      "Bio": "With more top ten hits than we have fingers and toes, Noel Gallagher is the quintessential modern day song-writing hero. Hailed as a 'writer for the masses' during his time with Oasis and now High Flying Birds, if there's one thing Gallagher senior knows how to do well its write a song so darn infectious it will make you break out in hives. His tunes have been vocally-throttled by rabid karaoke singers, howled across stadiums by hordes of football fans, and even covered on mainstream shows like The X Factor. With a bad boy attitude to rival Johnny Cash's and a song-writing style that's impressive in its simplicity, Gallagher's ear for a hit has made him millions and gifted a canyon of songs that will surely outlast him.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/1fb845003bceb58d9c0e55625e28a5b7-650-80.jpg"
+    },
+    {
+      "Artist": "Dave Matthews",
+      "Genre": "Rock, roots rock",
+      "Number of Albums": 10,
+      "Biggest hit to date": "American Baby",
+      "Song-writing prowess": 8,
+      "Lyricism power": 7,
+      "Modern day hero rating": 7,
+      "Bio": "South African born Dave Matthews of the smoking hot and criminally-underrated-in-the-UK Dave Matthews Band is musical taste personified. In the States he's considered a song-writing master, tempting alt superstars such as Alanis Morissette and banjo supremos like Bela Fleck to guest on his tracks. Here he's the muso's song-writer of choice thanks to jaw-droppingly complex yet grooveable arrangements and lyrics so vivid you can almost taste, smell and touch what he's singing about. Although his writing muscle is no doubt strengthened by a powerhouse band, Dave has honed his craft over 10 LPs and a raft of perfect songs – listen and wonder to Pantala Naga Pampa, Spoon and many more.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/9d85bcc4ab9d44a6ae87894064ba9cdc-650-80.jpg"
+    },
+    {
+      "Artist": "Marcus Mumford",
+      "Genre": "Folk rock, indie rock, bluegrass",
+      "Number of Albums": 2,
+      "Biggest hit to date": "I Will Wait",
+      "Song-writing prowess": 8,
+      "Lyricism power": 8,
+      "Modern day hero rating": 7,
+      "Bio": "Over the course of two critically-acclaimed albums with the folk rock juggernaut Mumford and Sons, singer/guitarist Marcus Mumford has established himself as a writer capable of balancing intelligent lyrics with bellow-worthy musicality. No-one could argue the might of his lyrical clout. After all, not many twenty-somethings have the emotional perception to write, 'It's not the long walk home that will change this heart / But the welcome I receive with every start' (Roll Away Your Stone). And don't get us started on the quiet reflections of Winter Winds or the self-realising offered up by Babel. Marcus is the kind of song-writer kids should study in poetry class. In fact, if Edgar Allan Poe wrote lyrics we bet they wouldn't be far off this.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/9efd928352e4708702ba0536f9a01f7e-650-80.jpg"
+    },
+    {
+      "Artist": "Bon Iver",
+      "Genre": "Indie, folk",
+      "Number of Albums": 2,
+      "Biggest hit to date": "Skinny Love",
+      "Song-writing prowess": 9,
+      "Lyricism power": 7,
+      "Modern day hero rating": 8,
+      "Bio": "In 2006, after the break-up of both his band and his relationship, Justin Vernon headed to a cabin in Wisconsin to get his head together. Three months later he emerged with For Emma, Forever Ago - a record made with a few microphones and an acoustic guitar - that would go on to change his fortunes completely. That album yielded Flume, Skinny Love and Re: Stacks, took him around the world and heralded the arrival of not just a new songwriter, but a new way of writing songs. Proof that you don't need a big budget to make a big album.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/7ac6381b00b4346685a81002d06dd98c-650-80.jpg"
+    },
+    {
+      "Artist": "Conor Oberst",
+      "Genre": "Indie rock",
+      "Number of Albums": 5,
+      "Biggest hit to date": "Lua",
+      "Song-writing prowess": 9,
+      "Lyricism power": 8,
+      "Modern day hero rating": 8,
+      "Bio": "Conor Oberst is another artist not afraid to juggle projects and genres. The Nebraskan songwriter is still best known as the songwriting force behind indie darlings Bright Eyes, but has also released five solo records under his own name. The country-tinged I'm Wide Awake And It's Morning, which featured another songwriting legend, Emmylou Harris, remains his best-loved work, yielding modern acoustic staples Lua and First Day Of My Life. Fragility is the key to Oberst's writing - he's a master at penning songs that feel like they might crack at the seams.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/2da2e20ae5d8e09380ebc7249dc1dc34-650-80.jpg"
+    },
+    {
+      "Artist": "Jack White",
+      "Genre": "Rock, blues",
+      "Number of Albums": 1,
+      "Biggest hit to date": "Love Interruption",
+      "Song-writing prowess": 10,
+      "Lyricism power": 8,
+      "Modern day hero rating": 9,
+      "Bio": "A modern songwriting icon, we've slipped Jack White into this list because, well, we can. His first solo effort proper, Blunderbuss, may have only arrived last year, but Jack White is a do-what-he-wants singer-songwriter in the Neil Young vein - dropping in and out of projects and solo work as the creative juices dictate. If you want to be fussy and keep things strictly acoustic, check out his contributions to the Cold Mountain soundtrack, or his one-off Fly Farm Blues. Either way, there are few modern writers that can compete with Mr White's contributions to guitar music.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/fcab44502ca6ad2cfd767dbcc0346d59-650-80.jpg"
+    },
+    {
+      "Artist": "Laura Marling",
+      "Genre": "Folk",
+      "Number of Albums": 4,
+      "Biggest hit to date": "Ghosts",
+      "Song-writing prowess": 8,
+      "Lyricism power": 9,
+      "Modern day hero rating": 8,
+      "Bio": "Marling is probably the closet thing our generation has to its own Leonard Cohen or Joni Mitchell. The quietly powerful songwriter served time in the London scene that birthed Mumford & Sons and played in Noah And The Whale before striking out on her own. Thank your respective god/idol that she did. Marling shares that almost elemental approach to songwriting of the aforementioned Mitchell and cribs a few nylon-string fingerstyle tricks from Cohen, penning subtle, intelligent and forthright acoustic songs. She's already got a formidable catalogue and her fifth record is due in 2014.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/dc45cf130657ec818ad7407a267ec90c-650-80.jpg"
+    },
+    {
+      "Artist": "Ben Howard",
+      "Genre": "Folk, pop",
+      "Number of Albums": 1,
+      "Biggest hit to date": "Only Love",
+      "Song-writing prowess": 8,
+      "Lyricism power": 7,
+      "Modern day hero rating": 7,
+      "Bio": "Everyone's favourite surf kid-cum-acoustic whiz, Ben Howard has an esoteric playing and writing style that draws on a lineage of self-taught folk players like John Martyn and Bert Jansch, but somehow finds itself equally at home in the pop charts. His shows tend to be full of screaming girls, but he's an artist at heart - meaning that his live performances don't involve a lot of eye contact. 2012's Burgh Island EP saw Howard display a darker side to his writing and experiment with eery amplified acoustic tones. We suspect there's much more to come from him yet.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/9ca250389f1edd78d28e1218d9444023-650-80.jpg"
+    },
+    {
+      "Artist": "Ryan Adams",
+      "Genre": "Alternative country",
+      "Number of Albums": 13,
+      "Biggest hit to date": "New York, New York ",
+      "Song-writing prowess": 9,
+      "Lyricism power": 8,
+      "Modern day hero rating": 9,
+      "Bio": "Ryan Adams, AKA the most prolific man in music, is a songwriting machine. After the disbandment of his initial group Whiskeytown, he went solo in 2000 and has managed to average an album a year ever since (three in 2005, which is getting a bit silly). New York, New York remains his best known single, after it was picked up in the wake of the September 11 attacks, but his version of Wonderwall is also pretty stellar, causing Noel Gallagher to credit him as \"The only person who ever got that song right\". Fun fact: MusicRadar once watched Adams throw-up into a bucket mid-set. He didn't drop a note!",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/3beb1d2a4664de22c2085eae5a101985-650-80.jpg"
+    },
+    {
+      "Artist": "City And Colour",
+      "Genre": "Folk, emo",
+      "Number of Albums": 4,
+      "Biggest hit to date": "Comin' Home",
+      "Song-writing prowess": 6,
+      "Lyricism power": 8,
+      "Modern day hero rating": 7,
+      "Bio": "The solo moniker of one-time Alexisonfire guitarist Dallas Green (City and Colour = Dallas and green, geddit?), C&C emerged as way for Dallas to showcase a bunch of considerably gentler acoustic songs that pre-dated his time with the Canadian hardcore heroes. The initial album (2005's Sometimes) proved a surprise success and subsequent follow-ups 2008's Bring Me Your Love and 2011's Little Hell shot to number three and number one on the Canadian charts respectively. Now he mainly plays the kind of spellbinding shows in which you can hear a pin drop. From one extreme to the other, eh?",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/36b898d28670a567d3aa5cef49368a21-650-80.jpg"
+    },
+    {
+      "Artist": "Frank Turner",
+      "Genre": "Folk, Punk",
+      "Number of Albums": 5,
+      "Biggest hit to date": "Recovery",
+      "Song-writing prowess": 8,
+      "Lyricism power": 7,
+      "Modern day hero rating": 7,
+      "Bio": "A folk troubadour that documents the ills of society (as well as his personal ills - listen to Recovery to see what we mean there), Frank Turner's recent success is built on a lifetime's worth of gigs. The songwriter was originally guitarist and frontman in London hardcore outfit Million Dead before that band imploded in 2005. Somewhat deterred from the idea of another group, Turner was compelled to pick up his acoustic and go solo. Thus began a quiet, slow-burn process of building a following that would eventually lead to a headline show at Wembley Arena in 2012 and a number two album in Tape Deck Heart a year later.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/ec1689316d5f318d059231e888a5d390-650-80.jpg"
+    },
+    {
+      "Artist": "Jake Bugg",
+      "Genre": "Indie",
+      "Number of Albums": 1,
+      "Biggest hit to date": "Lightning Bolt",
+      "Song-writing prowess": 7,
+      "Lyricism power": 8,
+      "Modern day hero rating": 7,
+      "Bio": "The best thing to have come out of Nottingham since 1990's Kevin Costner, Jake Bugg has succeeded were so many pretenders have tried and failed - combining a Dylan-esque nasal drawl with a modern lyrical bent and a knack for an indie anthem. He released his Platinum-selling debut full-length at the tender age of 18 and soon became an adopted son of Paul Weller, Noel Gallagher and pretty much anyone else that prefers to fully button their shirts. Songs like Lightning Bolt and Two Fingers are his stock in trade, but gentler moments like Broken showcase his best writing.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/3df43c21b2e690d1a02446c576c4e013-650-80.jpg"
+    },
+    {
+      "Artist": "Ed Sheeran",
+      "Genre": "Pop, hip hop",
+      "Number of Albums": 1,
+      "Biggest hit to date": "The A Team",
+      "Song-writing prowess": 8,
+      "Lyricism power": 7,
+      "Modern day hero rating": 8,
+      "Bio": "Ed Sheeran's success can perhaps be attributed to his ability to 'do things the old fashioned way' in a modern age. At just 19, while most artists his age were to content to post material on MySpace and wait to be discovered, Ed took things into his own hands, playing 312 gigs in a single year. Charisma, a small Martin acoustic and the relatable charm of his songwriting soon saw him touring with Example, kipping at Jamie Foxx's LA home studio and playing to ever expanding audiences. Sadly, MySpace hasn't fared quite as well.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/c9bd2e4efd0a9a43776b4dc4bb739820-650-80.jpg"
+    },
+    {
+      "Artist": "Michael Kiwanuka",
+      "Genre": "Soul, folk",
+      "Number of Albums": 1,
+      "Biggest hit to date": "Home Again",
+      "Song-writing prowess": 7,
+      "Lyricism power": 7,
+      "Modern day hero rating": 7,
+      "Bio": "London songwriter Michael Kiwanuka cut his teeth playing as a session guitarist for various UK hip hop acts, among them Chipmunk and Bashy, before opting to go it alone. He was eventually exposed to a wider audience thanks to Communion (the UK label/club night run by Ben Lovett of Mumford & Sons), which hosted his gigs and later released the EPs that led to his 2012 major label contract and debut album, Home Again. Penning sun-kissed soul-inflected folk songs, Kiwanuka's a gifted writer and a natural guitarist, but it's his golden voice - oft compared to Otis Redding - that's the real ace up his sleeve.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/309bec775b7ff2606f993c8dd8b7eb92-650-80.jpg"
+    },
+    {
+      "Artist": "Ray Lamontagne",
+      "Genre": "Folk",
+      "Number of Albums": 4,
+      "Biggest hit to date": "Touble",
+      "Song-writing prowess": 6,
+      "Lyricism power": 7,
+      "Modern day hero rating": 6,
+      "Bio": "A classic introverted songwriter, Ray Lamontagne kept leapt to most people's intention with the release of his debut album Trouble back in 2004. He's since released three highly-rated records in the form of Till The Sun Turns Black (2006), Gossip In The Grain (2008) and God Willin' & The Creek Don't Rise (2010). Heavily influenced by the classic Laurel Canyon '60s songwriters (chief among them Stephen Stills) and The Band, the sparse writing of his debut morphed into soul-infused country on Gossip In The Grain and then bluegrass on God Willin'. We'd tell you what he's got planned next, but he's not really one for press.",
+      "Image URL": "http://cdn.mos.cms.futurecdn.net/078aafafd9929dd2fd60a74afe93a8e5-650-80.jpg"
+    }
+   ]
+}
