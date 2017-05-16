@@ -1,18 +1,18 @@
-jQuery( '.filters' ).append( '<h3>Filter by</h3>' );
+jQuery( '<h3>Filter by</h3>' ).insertBefore( '.top-trump-game .filters' );
 
 var isoSortData = {};
 
 jQuery('.top-trump:first-of-type .data-value.number').each(
     function() { 
         var buttonName = jQuery( this ).prev('.data-title').text();
-    var dataAttr = jQuery( this ).attr('sort-data-id');
+        var dataAttr = jQuery( this ).attr('sort-data-id');
         isoSortData[dataAttr] = '.' + dataAttr;
-//console.log(dataAttr);
         jQuery( '.button-group' ).append( '<button class="button" data-sort-value="'+ dataAttr +'">' + buttonName + '</button>' );
-          
+                  
     }
 );
-//console.log(isoSortData);
+
+jQuery('.top-trump-game .button:first-of-type').addClass( "is-checked" );
 
 // external js: isotope.pkgd.js
 
@@ -21,7 +21,10 @@ var iso = new Isotope( '.grid', {
   itemSelector: '.top-trump',
   layoutMode: 'fitRows',
   getSortData: isoSortData,
-  sortAscending: false
+  sortAscending: false,
+  fitRows: {
+    gutter: 10
+  }
 });
 
 // bind sort button click
@@ -47,6 +50,7 @@ function onButtonGroupClick( event ) {
     return;
   }
   var button = event.target;
+  console.log(button.classList);
   button.parentNode.querySelector('.is-checked').classList.remove('is-checked');
   button.classList.add('is-checked');
 }
