@@ -3,6 +3,7 @@
 * Handles loading of an json formatted top trump data
 * Takes object name and uses that as the category name, then loads the first array and uses objects as the post types
 **/
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 class Json_To_Top_Trump_Converter extends Top_Trumps_Game {
 

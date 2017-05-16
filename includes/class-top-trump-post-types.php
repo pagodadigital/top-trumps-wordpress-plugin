@@ -3,6 +3,8 @@
  * Top Trumps Class Post Types.
  */
 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 class Top_Trumps_Game_Post_Types {
 
  	public function __construct(){

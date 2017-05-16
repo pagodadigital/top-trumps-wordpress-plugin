@@ -40,12 +40,30 @@ class Top_Trumps_Game  {
      */
     public $root = __FILE__;
 
+
+    /**
+     * Return the Post Slug.
+     *
+     * @since 1.0.0
+     * @var string $file Plugin file path.
+     */
+    public $post_type = 'top_trumps';
+
+
+    /**
+     * Return the Post Taxonomy.
+     *
+     * @since 1.0.0
+     * @var object $instance The instance of LGWK.
+     */
+    public $post_taxonomy  = 'top_trumps_category';
+
     /**
      * Instance of Plugin.
      *
      * @since 1.0.0
      * @access private
-     * @var object $instance The instance of LGWK.
+     * @var object $instance The instance of Top_Trumps_Game.
      */
     private static $instance;
 
@@ -59,6 +77,7 @@ class Top_Trumps_Game  {
     public function __construct() {
         $this->setup();
         $this->init();
+        
     }
 
     /**
@@ -68,6 +87,8 @@ class Top_Trumps_Game  {
         $this->plugin_dir   = plugin_dir_path( __FILE__ );
         $this->plugin_url   = plugin_dir_url( __FILE__ );
         $this->includes();
+        
+        add_action( 'wp_enqueue_scripts', array( $this, 'load_js_css' ) );
     }
 
     /**
@@ -89,12 +110,13 @@ class Top_Trumps_Game  {
      * Load include files and initiate classes so they are accessible from parent ($this) object
      * 
      * @since 1.0.0
-     * @return object Instance of the class.
+     * @return void 
      */
     public function includes() {
         $files = array(
             'class-top-trump-post-types.php', 
-            'class-json-trump-card-converter.php'
+            'class-json-trump-card-converter.php',
+            'top-trump-card-functions.php'
         );
 
         foreach ( $files as $file ) {
@@ -117,6 +139,26 @@ class Top_Trumps_Game  {
     public function setup() {   
         add_action( 'admin_init', array( $this, 'plugin_initialize' ), 100 );
     }
+
+    /**
+     * Load js /css
+     *
+     *
+     * @since 1.0.0
+     * @return void
+     */
+    public function load_js_css() {   
+        wp_enqueue_style( 'trump-card-css', $this->plugin_url.'assets/top-trump.css' );
+        
+        //thirdparty.js
+        wp_enqueue_script( 'isotope-js', $this->plugin_url.'vendor/isotope.pkgd.min.js', array('jquery') , false, true );
+
+        wp_enqueue_script( 'trump-card-js', $this->plugin_url.'assets/top-trump.js', array('jquery'), false, true );
+
+
+
+    }
+
     /**
      * hooks into admin to see if the plugin is newly activated and fush rewrite rules..
      *
