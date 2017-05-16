@@ -150,13 +150,9 @@ class Top_Trumps_Game  {
     public function load_js_css() {   
         wp_enqueue_style( 'trump-card-css', $this->plugin_url.'assets/top-trump.css' );
         
-        //thirdparty.js
         wp_enqueue_script( 'isotope-js', $this->plugin_url.'vendor/isotope.pkgd.min.js', array('jquery') , false, true );
 
         wp_enqueue_script( 'trump-card-js', $this->plugin_url.'assets/top-trump.js', array('jquery'), false, true );
-
-
-
     }
 
     /**

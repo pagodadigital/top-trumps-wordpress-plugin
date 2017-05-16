@@ -99,7 +99,6 @@ function meta_finder( $category, $post_id ){
 **/
 function format_meta_name( $meta_key, $category ){
 	//remove top trump category prefix
-
 	$value_name = str_replace( $category, '', $meta_key );
 	$value_name = str_replace( '_', ' ', $value_name );
 	$value_name = ucwords( $value_name );
@@ -142,7 +141,7 @@ function meta_value_type( $meta_value ){
 /**
 * Checks to if is trump card data
 * @since 1.0 
-* @return  
+* @return boolean false if postmeta is not to be output on the card
 **/
 function is_trump_card_meta( $name, $type, $title, $key ){
 	//$disallowed_meta = array( 'long-meta', 'image' );
