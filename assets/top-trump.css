@@ -194,6 +194,7 @@
   color: white;
   margin: 1em 0em;
   border-radius: .25em;
+  background-position: center;
 }
 
 .top-trump li{
@@ -233,4 +234,11 @@ ul.trump-values {
   text-shadow: none;
   -webkit-transition: background 0.2s;
   transition: background 0.2s;
+  margin: 0em 1em 1em 0em;  
+}
+
+@media only screen and (min-width: 33.75em) {  /* 540px */
+  ul.trump-values {
+      min-height: 350px;
+  }
 }
